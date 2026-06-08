@@ -3,7 +3,7 @@
 An end-to-end machine learning pipeline that shifts customer retention strategies from reactive damage control to proactive, financially optimized intervention. This system doesn't just predict if a customer will churn; it quantifies the exact Revenue at Risk to prioritize operational outreach based on maximum ROI.
 
 ## 🚀 Live Demo & Interactive Analytics
-* **Interactive Frontend UI:** [View Live Tableau Dashboard](https://public.tableau.com/path-to-your-published-dashboard)
+* **Interactive Frontend UI:** [View Live Tableau Dashboard](https://public.tableau.com/app/profile/abei.nathan.s.k/viz/Customer_Churn_Revenue_Risk_Engine/MRRProtectionEnginePredictiveChurnRevenue-at-RiskCommandCenter)
 * **Portfolio Context:** [abeinathan.github.io](https://abeinathan.github.io/)
 
 ## 🛠️ Technology Stack & Environment
